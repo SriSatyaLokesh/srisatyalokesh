@@ -13,16 +13,20 @@
 
 - 👨‍💻 All of my projects are available at [https://srisatyalokesh.github.io/](https://srisatyalokesh.github.io/)
 
-- 📝 I regularly write articles on [https://www.instagram.com/tech.mobie/](https://www.instagram.com/tech.mobie/)
+- 📝 I regularly write articles on [Tech Mobie](https://mobie.tech/)
+
+- 💻 I design and explain tech and gadgets related content on [Instagram/TechMobie](https://www.instagram.com/tech.mobie/)
 
 - 💬 Ask me about **python, chatbots, data analysis and visualisation**
 
 - 📫 How to reach me **srisatyalokesh2.12@gmail.com**
 
-- 📄 Know about my experiences [https://srisatyalokesh.github.io/assets/resume/SriSatyaLokesh-Resume.pdf](https://srisatyalokesh.github.io/assets/resume/SriSatyaLokesh-Resume.pdf)
-
 - ⚡ Fun fact **I'm good at Tech, Gadgets, Designing and Story telling too. Checkout this https://www.instagram.com/tech.mobie/**
 
+### Checkout My Website here:
+[https://srisatyalokesh.github.io](https://srisatyalokesh.github.io/)
+### Checkout My Resume here:
+[SriSatyaLokesh Reaume](https://srisatyalokesh.github.io/assets/resume/SriSatyaLokesh-Resume.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codewithsatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithsatya" height="30" width="40" /></a>
