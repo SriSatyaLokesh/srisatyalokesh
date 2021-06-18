@@ -29,7 +29,7 @@
 ### Checkout My Website here:
 [https://srisatyalokesh.github.io](https://srisatyalokesh.github.io/)
 ### Checkout My Resume here:
-[SriSatyaLokesh Reaume](https://srisatyalokesh.github.io/assets/resume/SriSatyaLokesh-Resume.pdf)
+[SriSatyaLokesh Resume](https://srisatyalokesh.github.io/assets/resume/SriSatyaLokesh-Resume.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codewithsatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithsatya" height="30" width="40" /></a>
