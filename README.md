@@ -31,10 +31,10 @@
 <a href="https://www.hackerrank.com/srisatyalokesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srisatyalokesh" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srisatyalokesh&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="srisatyalokesh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srisatyalokesh&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="srisatyalokesh" /></p>
 <br/>
         
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=srisatyalokesh&show_icons=true&locale=en&theme=nightowl" alt="srisatyalokesh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=srisatyalokesh&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="srisatyalokesh" /></p>
 <br/>
          
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srisatyalokesh&theme=nightowl" alt="srisatyalokesh" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srisatyalokesh&theme=nightowl&hide_border=true" alt="srisatyalokesh" /></p>
