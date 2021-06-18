@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satya</h1>
 <h3 align="center">Software Development Engineer at Dhan AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srisatyalokesh&label=Profile%20views&color=0e75b6&style=flat" alt="srisatyalokesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srisatyalokesh" alt="srisatyalokesh" /></a> </p>
-
 - 🔭 I’m currently working on [Chat Bot Development](https://dhan.ai)
 
 - 🌱 I’m currently learning **Rasa, Bot framework, Django, NLP, Data Analysis**
@@ -15,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://srisatyalokesh.github.io/](https://srisatyalokesh.github.io/)
 
-- 📝 I regularly write articles on [https://www.instagram.com/tech.mobie/](https://www.instagram.com/tech.mobie/)
+- 📝 I regularly write articles on [Tech Mobie/](https://mobie.tech/)
 
 - 💬 Ask me about **python, chatbots, data analysis and visualisation**
 
