@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://srisatyalokesh.github.io/](https://srisatyalokesh.github.io/)
 
-- 📝 I regularly write articles on [Tech Mobie/](https://mobie.tech/)
+- 📝 I regularly write articles on [Tech Mobie](https://mobie.tech/)
 
 - 💬 Ask me about **python, chatbots, data analysis and visualisation**
 
