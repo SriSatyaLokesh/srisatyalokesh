@@ -95,12 +95,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://srisatyalokesh.github.io"><img src="https://img.shields.io/badge/-srisatyalokesh.github.io-00A5E9?style=flat&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:srisatyalokesh2.12@gmail.com"><img src="https://img.shields.io/badge/-srisatyalokesh2.12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/SriSatyaLokesh"><img src="https://img.shields.io/badge/-Sri_Satya_Lokesh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/srisatyalokesh"><img src="https://img.shields.io/badge/-SriSatyaLokesh-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/srisatyalokesh2.12"><img src="https://img.shields.io/badge/-SriSatyaLokesh-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.twitter.com/CodeWithSatya"><img src="https://img.shields.io/badge/-CodeWithSatya-42C3F7?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://hackerrank.com/srisatyalokesh/"><img src="https://img.shields.io/badge/-SriSatyaLokesh-32CD30?style=flat&logo=hackerrank&logoColor=white"/></a>
-<a href="https://clubhouse.com/@srisatyalokesh/"><img src="https://img.shields.io/badge/-SriSatyaLokesh-B655C8?style=flat&logo=clubhouse&logoColor=white"/></a>
+<a href="https://srisatyalokesh.github.io"><img src="https://img.shields.io/badge/-Website-00A5E9?style=flat&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:srisatyalokesh2.12@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/SriSatyaLokesh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/srisatyalokesh"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/srisatyalokesh2.12"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.twitter.com/CodeWithSatya"><img src="https://img.shields.io/badge/-Twitter-42C3F7?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://hackerrank.com/srisatyalokesh/"><img src="https://img.shields.io/badge/-Hackerrank-32CD30?style=flat&logo=hackerrank&logoColor=white"/></a>
+<a href="https://clubhouse.com/@srisatyalokesh/"><img src="https://img.shields.io/badge/-Clubhouse-B655C8?style=flat&logo=clubhouse&logoColor=white"/></a>
 </p>
