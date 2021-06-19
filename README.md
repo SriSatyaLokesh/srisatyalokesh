@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srisatyalokesh&label=Profile%20views&color=0e75b6&style=flat" alt="srisatyalokesh" /> </p>
 
-- 🔭 I’m currently working on [Chat Bot Development](https://dhan.ai)
+- 🔭 I’m currently working on [ChatBot Development](https://dhan.ai)
 
-- 🌱 I’m currently learning **Rasa, Bot framework, Django, NLP, Data Analysis**
+- 🌱 I’m currently learning **Rasa, Bot framework, DialogfLow Django, NLP, Data Analysis**
 
 - 👯 I’m looking to collaborate on [Rasa Core](https://github.com/RasaHQ/rasa)
 
