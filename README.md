@@ -42,6 +42,7 @@
 
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Dash](https://img.shields.io/badge/-Dash-05122A?style=flat&logo=dash)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -72,7 +73,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
 ![Photography](https://img.shields.io/badge/-Photography-05122A?style=flat&logo=photobucket)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
-![Lightroom](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobelightroom)&nbsp;
+![Lightroom](https://img.shields.io/badge/-Lightroom-05122A?style=flat&logo=adobelightroom)&nbsp;
 ![Illutrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
 ![Photopea](https://img.shields.io/badge/-Photopea-05122A?style=flat&logo=photopea)&nbsp;
 ![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=gimp)
