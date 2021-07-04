@@ -93,11 +93,12 @@
 <a href="https://github.com/SriSatyaLokesh">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisatyalokesh&theme=nightowl&hide_border=true" alt="srisatyalokesh"/>
 </a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=srisatyalokesh&bg_color=011627&color=FFFFFF&line=19e6e1&point=c0f0f7&hide_border=true" alt="srisatyalokesh"/>
 </p>
 <details>
   <summary>Other GitHub Stats</summary>
+  <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=srisatyalokesh&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=srisatyalokesh&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px />
+  </p>
 </details>
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -111,4 +112,10 @@
 <a href="https://www.twitter.com/CodeWithSatya"><img src="https://img.shields.io/badge/-Twitter-42C3F7?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://hackerrank.com/srisatyalokesh/"><img src="https://img.shields.io/badge/-Hackerrank-32CD30?style=flat&logo=hackerrank&logoColor=white"/></a>
 <a href="https://clubhouse.com/@srisatyalokesh/"><img src="https://img.shields.io/badge/-Clubhouse-B655C8?style=flat&logo=clubhouse&logoColor=white"/></a>
+</p>
+
+### 🤖 Contribution Graph 
+
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=srisatyalokesh&bg_color=011627&color=FFFFFF&line=19e6e1&point=c0f0f7&hide_border=true" alt="srisatyalokesh"/>
 </p>
