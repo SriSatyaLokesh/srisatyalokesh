@@ -91,11 +91,14 @@
 
 <p align="center">
 <a href="https://github.com/SriSatyaLokesh">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=srisatyalokesh&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=srisatyalokesh&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisatyalokesh&theme=nightowl&hide_border=true" alt="srisatyalokesh"/>
 </a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=srisatyalokesh&bg_color=011627&color=FFFFFF&line=19e6e1&point=c0f0f7&hide_border=true" alt="srisatyalokesh"/>
 </p>
-
+<details>
+  <summary>Other GitHub Stats</summary>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=srisatyalokesh&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=srisatyalokesh&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px />
+</details>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
