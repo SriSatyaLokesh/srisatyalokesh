@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+Dhan+AI;Chatbot+and+Python+Developer;Graphic+Designer,+Social+Media+Influencer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=SDE+at+Dhan+AI;Chatbot+and+Python+Developer;Graphic+Designer,+Social+Media+Influencer" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srisatyalokesh&label=Profile%20views&color=0e75b6&style=flat" alt="srisatyalokesh" /> </p>
