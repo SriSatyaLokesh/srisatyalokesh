@@ -110,6 +110,7 @@
 <a href="https://instagram.com/srisatyalokesh"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/srisatyalokesh2.12"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.twitter.com/CodeWithSatya"><img src="https://img.shields.io/badge/-Twitter-42C3F7?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCUHT914N6EUO-L9DNjD3wdw"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 <a href="https://hackerrank.com/srisatyalokesh/"><img src="https://img.shields.io/badge/-Hackerrank-32CD30?style=flat&logo=hackerrank&logoColor=white"/></a>
 <a href="https://clubhouse.com/@srisatyalokesh/"><img src="https://img.shields.io/badge/-Clubhouse-B655C8?style=flat&logo=clubhouse&logoColor=white"/></a>
 </p>
