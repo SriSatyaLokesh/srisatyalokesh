@@ -119,5 +119,5 @@
 ### 🤖 Contribution Graph 
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=srisatyalokesh&bg_color=011627&color=FFFFFF&line=19e6e1&point=c0f0f7&hide_border=true" alt="srisatyalokesh"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=SriSatyaLokesh&theme=react-dark&hide_border=true" alt="srisatyalokesh"/>
 </p>
