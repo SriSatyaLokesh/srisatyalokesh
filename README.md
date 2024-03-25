@@ -1,10 +1,10 @@
 <h1 align="center">Hello World! This is Satya 👋</h1>
 <p align="center">
-  <img src="https://github.com/SriSatyaLokesh/srisatyalokesh/blob/4afeedf1218660c145a252ac7c8facce0148ae91/satya-k-banner.jpg" height="200"/>
+  <img src="https://github.com/SriSatyaLokesh/srisatyalokesh/blob/66afb9a794c401ad12af7822510f1be523bac640/satya-k-banner.jpg" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=SDE+at+Dhan+AI;Chatbot+and+Python+Developer;Graphic+Designer,+Social+Media+Influencer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer+at+Dhan+AI;Full+Stack+Developer;Chatbot+and+Python+Developer;Graphic+Designer,+Social+Media+Influencer" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srisatyalokesh&label=Profile%20views&color=0e75b6&style=flat" alt="srisatyalokesh" /> </p>
