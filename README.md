@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! This is Satya 👋</h1>
 <p align="center">
-  <img src="https://github.com/SriSatyaLokesh/srisatyalokesh/blob/66afb9a794c401ad12af7822510f1be523bac640/satya-k-banner.jpg" height="200"/>
+  <img src="https://github.com/SriSatyaLokesh/srisatyalokesh/blob/3fbc9c56884bcb4be8f07f69599ba07538dac30e/satya-k-banner.jpg" height="200"/>
 </p>
 
 <p align="center">
