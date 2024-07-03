@@ -19,13 +19,13 @@
 
 - 👨‍💻 All of my projects are available at [https://srisatyalokesh.github.io/](https://srisatyalokesh.github.io/)
 
-- 📝 I regularly write articles on [Tech Mobie](https://mobie.tech/)
+- 📝 I regularly write articles on [Tech Mobie](https://devskrate.com/)
 
 - 💻 I design and explain tech & gadgets related content on [Instagram/TechMobie](https://www.instagram.com/tech.mobie/)
 
-- 💬 Ask me about **python, chatbots, data analysis and visualisation**
+- 💬 Ask me about **python, chatbots, data analysis and visualization**
 
-- 📄 Chekout my Resume here -  [SriSatyaLokesh Resume](https://srisatyalokesh.github.io/assets/resume/SriSatyaLokesh-Resume.pdf)
+- 📄 Checkout my Resume here -  [SriSatyaLokesh Resume](https://srisatyalokesh.github.io/assets/resume/srisatyalokesh-resume-2023.pdf)
 
 <img id="optionalstuff" alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" width=400px align="right"/>
 
