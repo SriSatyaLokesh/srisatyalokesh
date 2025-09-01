@@ -116,7 +116,7 @@
 <a href="https://clubhouse.com/@srisatyalokesh/"><img src="https://img.shields.io/badge/-Clubhouse-B655C8?style=flat&logo=clubhouse&logoColor=white"/></a>
 </p>
 
-### 🤖 Contribution Graph 
+### 🤖 Contribution Graph : 
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SriSatyaLokesh&theme=react-dark&hide_border=true" alt="srisatyalokesh"/>
