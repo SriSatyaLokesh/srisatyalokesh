@@ -15,28 +15,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Lead+AI+Engineer;Forward+Deployed+Engineer;Agentic+AI+Engineer;Conversational+AI+Engineer;Full+Stack+Developer;Systems+Architect;Part-time+Photographer+%26+Full-time+Traveller;Designer+%26+Developer+Trainer&font=Fira+Code&size=20&center=true&width=750&height=45&color=00A5E9" alt="Typing SVG" />
 </p>
 
-<img alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" width="320px" align="right"/>
+Hi, I'm Satya! I'm a Lead AI Engineer & Technical Architect based in Hyderabad, India, with over **8+ years of experience** building high-throughput backend systems and conversational AI platforms.
 
-Hi, I'm Satya. I'm a Lead AI Engineer and Technical Architect based in Hyderabad, India, with over 8 years of experience building backend systems, event-driven microservices, and conversational AI solutions.
+<img alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" width="310px" align="right"/>
 
-* **Current Role**: Lead Engineer at Dhan AI, where I build backend platforms serving over 400k active users across 18+ microservices with 99%+ uptime.
-* **AI & Agentic Systems**: Building agentic workflows, custom AI coding agents, and automated developer tooling.
-* **Conversational AI**: Built multi-tenant chatbot systems with Rasa NLP, Dialogflow, and Microsoft Bot Framework, cutting support call volumes by 40%.
-* **Training & Community**: Keynote speaker at GitHub Copilot Dev Days in Hyderabad (200+ engineers). I have trained over 2,000+ students and learners globally, mentored 25+ engineers, and run internal architecture sessions for 70+ engineers.
+* **Current Role**: Lead Engineer at **Dhan AI**, architecting backend platforms serving **400K+ active users** across 18+ microservices with 99%+ uptime & 30% API latency reduction.
+* **AI & Agentic Engineering**: Building custom agentic workflows, custom AI coding agents, and multi-tenant conversational platforms with Rasa NLP & Bot Framework (cutting support calls by 40%).
+* **Community & Mentorship**: Keynote speaker at **GitHub Copilot Dev Days (Hyderabad)** for 200+ engineers. Trained **2,000+ developers** globally and mentored 25+ engineers internally.
 
 <br clear="right"/>
-
----
-
-### Impact at a Glance
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Active_Users-400K+-00A5E9?style=flat-square&logo=users&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-18+-2E7D32?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Latency-30%25_Faster-D81B60?style=flat-square&logo=lightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/Engineers_Mentored-25+-F57C00?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Students_Trained-2000+-7B1FA2?style=flat-square&logo=googleclassroom&logoColor=white" />
-</p>
 
 ---
 
@@ -142,51 +129,6 @@ Hi, I'm Satya. I'm a Lead AI Engineer and Technical Architect based in Hyderabad
 
 ---
 
-### Work Experience
-
-```
-Dhan AI (Apr 2020: Present)
-|-- Lead Engineer (Jun 2022: Present)
-|   |-- Architected backend platforms serving 400K+ users with 99%+ uptime
-|   |-- Led engineering across 18+ microservices (Node.js, TypeScript, Python)
-|   |-- Improved API response times by 30% and mentored 25+ engineers
-|   `-- Built integrations for Kafka, Salesforce, Dynamics 365, and Firebase RBAC
-`-- Software Development Engineer (Apr 2020: Jun 2022)
-    |-- Built conversational AI platforms using Rasa, Dialogflow, and Bot Framework
-    `-- Reduced support call volume by 40% with automated self-service flows
-
-Synopsys (Sep 2019: Apr 2020)
-`-- Python Developer Intern
-    `-- Built metric collection APIs feeding Elasticsearch and Plotly Dash dashboards
-```
-
----
-
-### Key Projects & Open Source
-
-#### Enterprise Work
-* **[Customer Experience Platform](https://srisatyalokesh.is-a.dev/#projects)**: Modernized an enterprise CX platform with 18+ microservices for onboarding, billing, and order management using Node.js, TypeScript, Python, and Kafka.
-* **[Event-Driven Notification Platform](https://srisatyalokesh.is-a.dev/#projects)**: Notification system delivering millions of annual messages across SMS, Email, Push, and WhatsApp with a 98%+ delivery SLA.
-* **[Multi-Tenant Conversational AI Platform](https://srisatyalokesh.is-a.dev/#projects)**: Healthcare and telecom chatbot platform built on Rasa and Bot Framework, cutting hospital call center load by 40%.
-
-#### Open Source & Tools
-* **[GymFlow](https://github.com/SriSatyaLokesh/GymFlow)** ([Live App](https://app.gripgym.in/)): Serverless, installable PWA for independent gyms to manage members, attendance, and payments.
-* **[Copilot LLM Wiki](https://github.com/SriSatyaLokesh/copilot-llm-wiki)** ([Live Site](http://srisatyalokesh.is-a.dev/copilot-llm-wiki/)): Knowledge graph tool to query and interlink personal notes using Copilot.
-* **[Superpowers for Antigravity](https://github.com/SriSatyaLokesh/superpowers-for-antigravity)**: Agentic skills framework and development methodology tailored for AI coding agents.
-* **[Copilot Team Workflow](https://github.com/SriSatyaLokesh/copilot-team-workflow)** ([Live Site](https://srisatyalokesh.github.io/copilot-team-workflow/)): Workflow configuration to standardize GitHub Copilot usage across development teams.
-* **[Card Crew](https://github.com/SriSatyaLokesh/card-crew)**: Collaborative workspace and card-based task management system.
-* **[Paatalashala](https://github.com/SriSatyaLokesh/paatalashala)** ([Live Site](http://paatalashala.space/)): Interactive web app exploring Telugu cultural soundscapes and music.
-
----
-
-### Workshops & Technical Speaking
-
-* **GitHub Copilot Dev Days (Hyderabad)**: Delivered the keynote and hands-on workshops for 200+ engineers on AI pair programming and prompt engineering.
-* **Developer Educator**: Trained over 2,000+ students and learners globally through technical bootcamps, workshops, and Rasa NLP courses.
-* **Internal Mentorship**: Lead bi-weekly system architecture and microservices sessions for 70+ engineers at Dhan AI, mentoring 25+ developers.
-
----
-
 ### GitHub Stats
 
 <p align="center">
@@ -207,5 +149,3 @@ Synopsys (Sep 2019: Apr 2020)
   <a href="https://instagram.com/srisatyalokesh"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCUHT914N6EUO-L9DNjD3wdw"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </p>
-
-
