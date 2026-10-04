@@ -19,7 +19,7 @@
 
 ### Who am I?
 
-Hi, this is Seshadri Lokesh (most people know me as Satya K). When I am away from the terminal, I'm an avid traveler, trekker, and hiker. I'm a certified scuba diver, an ocean swimmer, a long-distance bike rider, and a technical trainer who loves breaking down complex ideas. Outside of code, I chase mountains, open roads, and underwater depths.
+Hi, this is **Sri Satya Lokesh K** (most people know me as Satya K). When I am away from the desk, I'm an full time traveler (not a tourist), trekker, and hiker. I'm a certified scuba diver, an ocean swimmer, a long-distance bike rider, and a technical trainer who loves breaking down complex ideas & technologies for people to learn. I love capturing moments and you can checkout them on my Instagram.Outside of code, I chase forests, mountains, open roads, underwater depths and mindful connections.
 
 Never mind, you probably came here to know the technical side of me. So here we go:
 
