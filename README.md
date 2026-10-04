@@ -187,7 +187,7 @@ Explore all series and tutorials at [**srisatyalokesh.is-a.dev/learn-ai**](https
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisatyalokesh&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisatyalokesh&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="./gh-space-shooter.gif" alt="GitHub Space Shooter" width="100%" />
 </p>
 
 ---
