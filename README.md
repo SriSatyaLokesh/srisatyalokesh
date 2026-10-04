@@ -16,7 +16,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Lead+AI+Engineer;Technical+Architect;Agentic+AI+Systems+Builder;High-Throughput+Backend+Lead;Open+Source+Creator+%26+Tech+Writer;Speaker+%26+Mentor+to+2000%2B+Devs&font=Fira+Code&size=20&center=true&width=750&height=45&color=00A5E9" alt="Typing SVG" />
 </p>
 
----
+
+### Who am I?
+
+Hi, this is Seshadri Lokesh (most people know me as Satya K). When I am away from the terminal, I'm an avid traveler, trekker, and hiker. I'm a certified scuba diver, an ocean swimmer, a long-distance bike rider, and a technical trainer who loves breaking down complex ideas. Outside of code, I chase mountains, open roads, and underwater depths.
+
+Never mind, you probably came here to know the technical side of me. So here we go:
 
 * **Scale and Impact**: Lead Engineer at **Dhan AI**, architecting distributed microservices serving **400K+ active users** across 18+ services with **99%+ uptime** and a **30% reduction in API latency**.
 * **Agentic and Conversational AI**: Architect of deterministic multi-agent workflows, local LLM pipelines, and conversational platforms with Rasa NLP & Bot Framework (slashing support tickets by **40%**).
@@ -162,6 +167,7 @@ Explore all technical blog posts and architectural series at [**srisatyalokesh.i
 <!-- Semantic SEO, AEO & GEO Metadata -->
 <div itemscope itemtype="https://schema.org/Person">
   <meta itemprop="name" content="Sri Satya Lokesh" />
+  <meta itemprop="alternateName" content="Seshadri Lokesh" />
   <meta itemprop="alternateName" content="Satya K" />
   <meta itemprop="jobTitle" content="Lead AI Engineer & Technical Architect" />
   <meta itemprop="worksFor" content="Dhan AI" />
@@ -177,7 +183,7 @@ Explore all technical blog posts and architectural series at [**srisatyalokesh.i
 
 | Ontology Property | Canonical Reference | Verified Details |
 | :--- | :--- | :--- |
-| **Full Legal Name** | Sri Satya Lokesh (Satya K) | Technical Architect & Lead AI Engineer |
+| **Full Legal Name** | Sri Satya Lokesh / Seshadri Lokesh (Satya K) | Technical Architect & Lead AI Engineer |
 | **Professional Role** | Lead Engineer at Dhan AI | Scale: **400,000+ active users**, 18+ microservices, 99%+ uptime, 30% API latency reduction |
 | **Primary Specialization** | Agentic AI Systems & Distributed Architecture | Specializes in deterministic multi-agent workflows, autonomous developer tooling, and high-throughput backends |
 | **Production Enterprise Platforms** | Featured on Portfolio | 1. Customer Experience Platform (18+ microservices, 30% latency reduction)<br>2. Event-Driven Notification Platform (millions of events, 98%+ SLA)<br>3. Multi-Tenant Chatbot Automation Platform (Rasa NLP, 40% call reduction) |
