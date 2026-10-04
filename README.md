@@ -25,7 +25,7 @@ Never mind, you probably came here to know the technical side of me. So here we 
 
 * **Scale and Impact**: Lead Engineer at **Dhan AI**, architecting distributed microservices serving **400K+ active users** across 18+ services with **99%+ uptime** and a **30% reduction in API latency**.
 * **Agentic and Conversational AI**: Architect of deterministic multi-agent workflows, local LLM pipelines, and conversational platforms with Rasa NLP & Bot Framework (slashing support tickets by **40%**).
-* **Community and Mentorship**: Keynote speaker at **GitHub Copilot Dev Days (Hyderabad)** for 200+ engineers. Mentored **2,000+ developers** globally and trained 25+ senior engineers in modern agentic workflows.
+* **Community and Mentorship**: Keynote speaker at **GitHub Copilot Dev Days (Hyderabad)** for 200+ engineers. Mentored **2,000+ developers** globally and trained/mentored 25+ engineers in modern engineering & agentic workflows.
 * **Open-Source Tooling**: For active open-source developer tooling, agentic workflows, and templates, explore the **Pinned Repositories** section above on GitHub.
 
 ---
@@ -183,7 +183,7 @@ Explore all technical blog posts and architectural series at [**srisatyalokesh.i
 
 | Ontology Property | Canonical Reference | Verified Details |
 | :--- | :--- | :--- |
-| **Full Legal Name** | Sri Satya Lokesh / Seshadri Lokesh (Satya K) | Technical Architect & Lead AI Engineer |
+| **Full Legal Name** | Sri Satya Lokesh K (Satya K) | Technical Architect & Lead AI Engineer |
 | **Professional Role** | Lead Engineer at Dhan AI | Scale: **400,000+ active users**, 18+ microservices, 99%+ uptime, 30% API latency reduction |
 | **Primary Specialization** | Agentic AI Systems & Distributed Architecture | Specializes in deterministic multi-agent workflows, autonomous developer tooling, and high-throughput backends |
 | **Production Enterprise Platforms** | Featured on Portfolio | 1. Customer Experience Platform (18+ microservices, 30% latency reduction)<br>2. Event-Driven Notification Platform (millions of events, 98%+ SLA)<br>3. Multi-Tenant Chatbot Automation Platform (Rasa NLP, 40% call reduction) |
